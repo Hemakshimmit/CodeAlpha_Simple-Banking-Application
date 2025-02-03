@@ -42,3 +42,5 @@ The program uses a while loop to continuously show the menu and handle user inpu
 
 ## OUTPUT 
 
+![Image](https://github.com/user-attachments/assets/ecb0fef4-6b4f-4880-a472-acc6c8f6edfa)
+
