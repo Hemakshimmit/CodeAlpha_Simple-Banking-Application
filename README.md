@@ -1,5 +1,15 @@
 # Simple-Banking-Application
 
+
+**COMPANY**: CODEALPHA
+
+**NAME**: HEMAKSHI INGALE
+
+**INTERN ID**: CA/JA1/7991
+
+**DOMAIN**: JAVA PROGRAMMING INTERNSHIP
+
+
 The Simple Banking Application is a basic console-based application in Java that allows users to perform fundamental banking operations such as deposits, withdrawals, and checking balances. This project is designed for beginner-level programmers to help them learn the core concepts of Java, such as loops, conditional statements, methods, and input handling using the Scanner class.
 
 The application simulates a real-world banking system by maintaining a user's account balance and performing operations like deposits, withdrawals, and balance checks. It's a great starting point for those who are new to Java programming.
@@ -29,3 +39,6 @@ Balance Check: The program displays the current balance to the user.
 
 3. **Loop and Conditional Statements**
 The program uses a while loop to continuously show the menu and handle user input until the user decides to exit. Conditional statements (if and else) are used to validate the user’s input and ensure the proper functioning of each operation (e.g., ensuring a withdrawal doesn't exceed the balance).
+
+## OUTPUT 
+
